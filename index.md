@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+## trevor karn
 
-You can use the [editor on GitHub](https://github.com/trevorkarn/trevorkarn.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### about 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+i'm a mathematics phd student at the University of Minnesota
 
-### Markdown
+my research interests are in algebraic combinatorics and
+applied topology
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+my pronouns are he/him
 
-```markdown
-Syntax highlighted code block
+### combinatorics seminar
 
-# Header 1
-## Header 2
-### Header 3
+in 2021, the UMN student algebra and combinatorics seminar organizers are Robbie Angarone, Carolyn Stephen, and Sasha Pevzner. the schedule can be found at [Sasha's website](https://www-users.cse.umn.edu/~pevzn002/SCAS/student_seminar_f21.html)
 
-- Bulleted
-- List
+[here](https://www-users.cse.umn.edu/~karnx018/2020.html) is the schedule of speakers from 2020
 
-1. Numbered
-2. List
+### publications
 
-**Bold** and _Italic_ and `Code` text
+[Modeling a Hidden Dynamical System Using Energy Minimization and Kernel Density Estimates](https://arxiv.org/abs/1904.05172) (with Steven Petrone and Christopher Griffin), Physical Review E **100** (2019)
 
-[Link](url) and ![Image](src)
-```
+[Stirling numbers in braid matroid Kazhdan–Lusztig polynomials](https://www.sciencedirect.com/science/article/pii/S0196885818301052) (with Max D. Wakefield), Advances in Applied Mathematics **103** (2019)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### teaching
 
-### Jekyll Themes
+i have taught the following classes at UMN:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/trevorkarn/trevorkarn.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- linear algebra and differential equations (math 2243), fall 2020, spring 2021
+- calculus ii (spring 2020, fall 2021)
+- calculus i (fall 2019)
 
-### Support or Contact
+### open source development
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+i'm a fan of python. in particular, sagemath.
+since 2020 i have been contributing to sagemath.
+
+in summer 2021 i participated in the [Google Summer of Code](https://summerofcode.withgoogle.com/projects/#6722452844969984) with sagemath.
+
+### prelims 
+
+check out [complex analysis preliminary written exam solutions](https://github.com/trevorkarn/umn-complex-prelim) and 
+[manifolds and topology preliminary written exam solutions](https://github.com/trevorkarn/umn-topology-prelim). 
+i am no longer actively updating them, so please make pull requests
+to keep them up-to-date!
