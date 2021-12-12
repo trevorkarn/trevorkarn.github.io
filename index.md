@@ -19,7 +19,7 @@ in 2021, the UMN student algebra and combinatorics seminar organizers are Robbie
 
 [Modeling a Hidden Dynamical System Using Energy Minimization and Kernel Density Estimates](https://arxiv.org/abs/1904.05172) (with Steven Petrone and Christopher Griffin), Physical Review E **100** (2019)
 
-[Stirling numbers in braid matroid Kazhdan–Lusztig polynomials]() (with Max D. Wakefield), Advances in Applied Mathematics **103** (2019)
+[Stirling numbers in braid matroid Kazhdan–Lusztig polynomials](https://www.sciencedirect.com/science/article/pii/S0196885818301052) (with Max D. Wakefield), Advances in Applied Mathematics **103** (2019)
 
 ### teaching
 
@@ -42,5 +42,3 @@ check out [complex analysis preliminary written exam solutions](https://github.c
 [manifolds and topology preliminary written exam solutions](https://github.com/trevorkarn/umn-topology-prelim). 
 i am no longer actively updating them, so please make pull requests
 to keep them up-to-date!
-
-
