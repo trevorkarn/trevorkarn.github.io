@@ -1,7 +1,5 @@
 ## trevor karn
 
-![me](me-2021.jpg)
-
 ### about 
 
 i'm a mathematics phd student at the University of Minnesota
