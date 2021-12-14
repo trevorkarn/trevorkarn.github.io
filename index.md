@@ -3,6 +3,7 @@
 ### about 
 
 i'm a mathematics phd student at the University of Minnesota
+advised by [Vic Reiner](https://www-users.cse.umn.edu/~reiner/)
 
 my research interests are in algebraic combinatorics and
 applied topology
