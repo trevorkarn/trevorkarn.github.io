@@ -18,6 +18,8 @@ in 2021, the UMN student algebra and combinatorics seminar organizers are Robbie
 
 ### publications
 
+[Equivariant Kazhdan-Lusztig theory of paving matroids](https://arxiv.org/abs/2202.06938) (with George Nasr, Nicholas Proudfoot, and Lorenzo Vecchi). [(Code)](https://github.com/trevorkarn/equivariant-matroid-relaxation)
+
 [Modeling a Hidden Dynamical System Using Energy Minimization and Kernel Density Estimates](https://arxiv.org/abs/1904.05172) (with Steven Petrone and Christopher Griffin), Physical Review E **100** (2019)
 
 [Stirling numbers in braid matroid Kazhdan–Lusztig polynomials](https://www.sciencedirect.com/science/article/pii/S0196885818301052) (with Max D. Wakefield), Advances in Applied Mathematics **103** (2019)
