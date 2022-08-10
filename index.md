@@ -10,12 +10,6 @@ applied topology
 
 my pronouns are he/him
 
-### combinatorics seminar
-
-in 2021, the UMN student algebra and combinatorics seminar organizers are Robbie Angarone, Carolyn Stephen, and Sasha Pevzner. the schedule can be found at [Sasha's website](https://www-users.cse.umn.edu/~pevzn002/SCAS/student_seminar_f21.html)
-
-[here](https://www-users.cse.umn.edu/~karnx018/2020.html) is the schedule of speakers from 2020
-
 ### publications
 
 [Equivariant Kazhdan-Lusztig theory of paving matroids](https://arxiv.org/abs/2202.06938) (with George Nasr, Nicholas Proudfoot, and Lorenzo Vecchi). [(Code)](https://github.com/trevorkarn/equivariant-matroid-relaxation)
@@ -46,3 +40,9 @@ check out [complex analysis preliminary written exam solutions](https://github.c
 [manifolds and topology preliminary written exam solutions](https://github.com/trevorkarn/umn-topology-prelim). 
 i am no longer actively updating them, so please make pull requests
 to keep them up-to-date!
+
+### combinatorics seminar
+
+in 2021, the UMN student algebra and combinatorics seminar organizers are Robbie Angarone, Carolyn Stephen, and Sasha Pevzner. the schedule can be found at [Sasha's website](https://www-users.cse.umn.edu/~pevzn002/SCAS/student_seminar_f21.html)
+
+[here](https://www-users.cse.umn.edu/~karnx018/2020.html) is the schedule of speakers from 2020
