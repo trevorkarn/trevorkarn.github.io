@@ -19,12 +19,15 @@ my pronouns are he/him
 [Stirling numbers in braid matroid Kazhdan–Lusztig polynomials](https://www.sciencedirect.com/science/article/pii/S0196885818301052) (with Max D. Wakefield), Advances in Applied Mathematics **103** (2019)
 
 ### teaching
+i have lectured the following classes at UMN:
 
-i have taught the following classes at UMN:
+- math 1272: calculus ii, fall 2022
 
-- linear algebra and differential equations (math 2243), fall 2020, spring 2021
-- calculus ii (spring 2020, fall 2021)
-- calculus i (fall 2019)
+i have t.a.'d the following classes at UMN:
+
+- math 2243: linear algebra and differential equations, fall 2020, spring 2021
+- math 1272: calculus ii, spring 2020, fall 2021
+- math 1271: calculus i, fall 2019
 
 ### open source development
 
@@ -32,14 +35,14 @@ i'm a fan of python. in particular, sagemath.
 since 2020 i have been contributing to sagemath.
 [here are some things i've done in sagemath](https://trac.sagemath.org/query?owner=tkarn&status=closed&status=positive_review&or&author=~Trevor+K.+Karn&col=id&col=summary&col=status&col=type&col=priority&col=milestone&col=component&order=priority).
 
-in summer 2021 i participated in the [Google Summer of Code](https://summerofcode.withgoogle.com/projects/#6722452844969984) with sagemath.
+in summer 2021 i participated in the [Google Summer of Code](https://summerofcode.withgoogle.com/projects/#6722452844969984) with sagemath. 
+i [did it again](https://summerofcode.withgoogle.com/programs/2022/projects/UpKWcuIO) in 2022.
 
 ### prelims 
 
 check out [complex analysis preliminary written exam solutions](https://github.com/trevorkarn/umn-complex-prelim) and 
 [manifolds and topology preliminary written exam solutions](https://github.com/trevorkarn/umn-topology-prelim). 
-i am no longer actively updating them, so please make pull requests
-to keep them up-to-date!
+i am no longer actively updating them, so please make pull requests to keep them up-to-date!
 
 ### combinatorics seminar
 
