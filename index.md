@@ -12,7 +12,7 @@ my pronouns are he/him
 
 ### publications
 
-[Equivariant Kazhdan-Lusztig theory of paving matroids](https://arxiv.org/abs/2202.06938) (with George Nasr, Nicholas Proudfoot, and Lorenzo Vecchi). [(Code)](https://github.com/trevorkarn/equivariant-matroid-relaxation)
+[Equivariant Kazhdan-Lusztig theory of paving matroids](https://arxiv.org/abs/2202.06938) (with George Nasr, Nicholas Proudfoot, and Lorenzo Vecchi). [(code)](https://github.com/trevorkarn/equivariant-matroid-relaxation) [(slides)](https://trevorkarn.github.io/assets/matroids-day-2022.pdf)
 
 [Modeling a Hidden Dynamical System Using Energy Minimization and Kernel Density Estimates](https://arxiv.org/abs/1904.05172) (with Steven Petrone and Christopher Griffin), Physical Review E **100** (2019)
 
