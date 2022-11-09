@@ -38,14 +38,15 @@ since 2020 i have been contributing to sagemath.
 in summer 2021 i participated in the [Google Summer of Code](https://summerofcode.withgoogle.com/projects/#6722452844969984) with sagemath. 
 i [did it again](https://summerofcode.withgoogle.com/programs/2022/projects/UpKWcuIO) in 2022.
 
-### prelims 
+### talks
 
-check out [complex analysis preliminary written exam solutions](https://github.com/trevorkarn/umn-complex-prelim) and 
-[manifolds and topology preliminary written exam solutions](https://github.com/trevorkarn/umn-topology-prelim). 
-i am no longer actively updating them, so please make pull requests to keep them up-to-date!
+[click here](https://trevorkarn.github.io/talks) to see more about some of my talks.
+
+### notes
+
+[click here](https://trevorkarn.github.io/notes) to see some miscellaneous notes. 
 
 ### combinatorics seminar
 
-in 2021, the UMN student algebra and combinatorics seminar organizers are Robbie Angarone, Carolyn Stephen, and Sasha Pevzner. the schedule can be found at [Sasha's website](https://www-users.cse.umn.edu/~pevzn002/SCAS/student_seminar_f21.html)
-
-[here](https://www-users.cse.umn.edu/~karnx018/2020.html) is the schedule of speakers from 2020
+i helped to organize the 2020 UMN student combinatorics seminar.
+[here](https://www-users.cse.umn.edu/~karnx018/2020.html) is the schedule of speakers that year.

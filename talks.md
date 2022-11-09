@@ -1,3 +1,3 @@
-Here are some recent talks I've given:
+## talks
 
-- University of Wisconsin Matroids Day
+- University of Wisconsin Matroids Day (11/4/22) [(slides)](https://trevorkarn.github.io/assets/matroids-day-2022.pdf)
