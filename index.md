@@ -21,6 +21,7 @@ my pronouns are he/him
 ### teaching
 i have lectured the following classes at UMN:
 
+- math 5251: [error-correcting codes, finite fields, algebraic curves](https://trevorkarn.github.io/5251), spring 2023
 - math 1272: calculus ii, fall 2022
 
 i have t.a.'d the following classes at UMN:
