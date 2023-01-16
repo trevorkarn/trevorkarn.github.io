@@ -1,3 +1,7 @@
+---
+layout: course
+---
+
 ## talks
 
 - Washington University in St. Louis Combinatorics seminar (11/28/22) [(slides)](https://trevorkarn.github.io/assets/wustl-equiv-kl-22.pdf)
