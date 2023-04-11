@@ -36,7 +36,7 @@ i have t.a.'d the following classes at UMN:
 
 i'm a fan of python. in particular, sagemath.
 since 2020 i have been contributing to sagemath.
-[here are some things i've done in sagemath](https://trac.sagemath.org/query?owner=tkarn&status=closed&status=positive_review&or&author=~Trevor+K.+Karn&col=id&col=summary&col=status&col=type&col=priority&col=milestone&col=component&order=priority).
+[here are some things i've done in sagemath](https://github.com/sagemath/sage/issues?q=is%3Aissue+trevorkarn+).
 
 in summer 2021 i participated in the [Google Summer of Code](https://summerofcode.withgoogle.com/projects/#6722452844969984) with sagemath. 
 i [did it again](https://summerofcode.withgoogle.com/programs/2022/projects/UpKWcuIO) in 2022.
