@@ -6,6 +6,7 @@ layout: course
 
 ### combinatorics
 
+- [Kazhdan-Lusztig polynomials for 321-hexagon-avoiding permutations](assets/notes/KL-321-hex-avoiding.pdf)
 - [How hard is it to organize a white elephant?](assets/white_elephant.pdf)
 - [Differential equations and Stirling numbers of the second kind](https://trevorkarn.github.io/assets/Stirling2-gfs.pdf)
 - [An interesting group action on the hyperpsimplex](https://trevorkarn.github.io/assets/Hypersimplex-action.pdf)
