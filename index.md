@@ -3,7 +3,7 @@
 ## about 
 
 i'm a mathematics phd student at the University of Minnesota
-advised by [Vic Reiner](https://www-users.cse.umn.edu/~reiner/)
+advised by [Vic Reiner](https://www-users.cse.umn.edu/~reiner/). here is [my cv](/assets/karn_CV.pdf).
 
 my research interests are in algebraic combinatorics and
 applied topology
