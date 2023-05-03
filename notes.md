@@ -22,3 +22,8 @@ layout: course
 check out [complex analysis preliminary written exam solutions](https://github.com/trevorkarn/umn-complex-prelim) and 
 [manifolds and topology preliminary written exam solutions](https://github.com/trevorkarn/umn-topology-prelim). 
 i am no longer actively updating them, so please make pull requests to keep them up-to-date!
+
+
+### other
+
+- [An early attempt at modeling COVID-19 using an SIR model](https://github.com/trevorkarn/COVID-19)
