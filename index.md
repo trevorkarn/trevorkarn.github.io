@@ -14,7 +14,7 @@ my pronouns are he/him
 
 [Topological Structure is Predictive of Deep Neural Network Success in Learning](https://arxiv.org/abs/2301.09734) (with Christopher Griffin and Benjamin Apple), *submitted*
 
-[Equivariant Kazhdan-Lusztig theory of paving matroids](https://arxiv.org/abs/2202.06938) (with George Nasr, Nicholas Proudfoot, and Lorenzo Vecchi). *to appear in Algebraic Combinatorics* [(code)](https://github.com/trevorkarn/equivariant-matroid-relaxation) [(slides)](https://trevorkarn.github.io/assets/matroids-day-2022.pdf)
+[Equivariant Kazhdan-Lusztig theory of paving matroids](https://alco.centre-mersenne.org/item/10.5802/alco.281.pdf) (with George Nasr, Nicholas Proudfoot, and Lorenzo Vecchi), Algebraic Combinatorics **Volume 6, issue 3** (2023) [(code)](https://github.com/trevorkarn/equivariant-matroid-relaxation) [(slides)](https://trevorkarn.github.io/assets/matroids-day-2022.pdf) [(arXiv version)](https://arxiv.org/abs/2202.06938)
 
 [Modeling a Hidden Dynamical System Using Energy Minimization and Kernel Density Estimates](https://arxiv.org/abs/1904.05172) (with Steven Petrone and Christopher Griffin), Physical Review E **100** (2019)
 
