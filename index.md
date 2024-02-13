@@ -12,7 +12,7 @@ my pronouns are he/him
 
 ## publications
 
-[Topological Structure is Predictive of Deep Neural Network Success in Learning](https://arxiv.org/abs/2301.09734) (with Christopher Griffin and Benjamin Apple), *submitted*
+[Topological learning in multiclass data sets](https://journals.aps.org/pre/accepted/df079RbaN251fe23e1299dd16f4d3c9b1bc07e707) (with Christopher Grifin and Benjamin Apple), accepted in Physical Review E (2024)
 
 [Equivariant Kazhdan-Lusztig theory of paving matroids](https://alco.centre-mersenne.org/item/10.5802/alco.281.pdf) (with George Nasr, Nicholas Proudfoot, and Lorenzo Vecchi), Algebraic Combinatorics **Volume 6, issue 3** (2023) [(code)](https://github.com/trevorkarn/equivariant-matroid-relaxation) [(slides)](https://trevorkarn.github.io/assets/matroids-day-2022.pdf) [(arXiv version)](https://arxiv.org/abs/2202.06938)
 
