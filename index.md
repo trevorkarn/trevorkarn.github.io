@@ -2,7 +2,7 @@
 
 ## about 
 
-i'm a mathematics phd student at the University of Minnesota
+i'm a mathematics phd candidate at the University of Minnesota
 advised by [Vic Reiner](https://www-users.cse.umn.edu/~reiner/). here is [my cv](/assets/karn_CV.pdf).
 
 my research interests are in algebraic combinatorics and
@@ -12,7 +12,9 @@ my pronouns are he/him
 
 ## publications
 
-[Topological learning in multiclass data sets](https://journals.aps.org/pre/accepted/df079RbaN251fe23e1299dd16f4d3c9b1bc07e707) (with Christopher Grifin and Benjamin Apple), accepted in Physical Review E (2024)
+[Ideals preserved by linear changes of coordinates in positive characteristic](https://arxiv.org/abs/2404.10544) (with Bjørn Cattell-Ravdal, Erin Delargy, Akash Ganguly, Sean Guan, Michael Perlman, and Saisudharshan Sivakumar)
+
+[Topological learning in multiclass data sets](https://journals.aps.org/pre/accepted/df079RbaN251fe23e1299dd16f4d3c9b1bc07e707) (with Christopher Grifin and Benjamin Apple), Physical Review E **109** (2024)
 
 [Equivariant Kazhdan-Lusztig theory of paving matroids](https://alco.centre-mersenne.org/item/10.5802/alco.281.pdf) (with George Nasr, Nicholas Proudfoot, and Lorenzo Vecchi), Algebraic Combinatorics **Volume 6, issue 3** (2023) [(code)](https://github.com/trevorkarn/equivariant-matroid-relaxation) [(slides)](https://trevorkarn.github.io/assets/matroids-day-2022.pdf) [(arXiv version)](https://arxiv.org/abs/2202.06938)
 
@@ -24,7 +26,7 @@ my pronouns are he/him
 i have lectured the following classes at UMN:
 
 - math 5251: [error-correcting codes, finite fields, algebraic curves](https://trevorkarn.github.io/5251), spring 2023
-- math 1272: calculus ii, fall 2022
+- math 1272: calculus ii, fall 2022 (in-person), spring 2024 (online)
 
 i have t.a.'d the following classes at UMN:
 
