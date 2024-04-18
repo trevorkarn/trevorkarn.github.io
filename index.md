@@ -12,8 +12,6 @@ my pronouns are he/him
 
 ## publications
 
-[Ideals preserved by linear changes of coordinates in positive characteristic](https://arxiv.org/abs/2404.10544) (with Bjørn Cattell-Ravdal, Erin Delargy, Akash Ganguly, Sean Guan, Michael Perlman, and Saisudharshan Sivakumar)
-
 [Topological learning in multiclass data sets](https://journals.aps.org/pre/accepted/df079RbaN251fe23e1299dd16f4d3c9b1bc07e707) (with Christopher Grifin and Benjamin Apple), Physical Review E **109** (2024)
 
 [Equivariant Kazhdan-Lusztig theory of paving matroids](https://alco.centre-mersenne.org/item/10.5802/alco.281.pdf) (with George Nasr, Nicholas Proudfoot, and Lorenzo Vecchi), Algebraic Combinatorics **Volume 6, issue 3** (2023) [(code)](https://github.com/trevorkarn/equivariant-matroid-relaxation) [(slides)](https://trevorkarn.github.io/assets/matroids-day-2022.pdf) [(arXiv version)](https://arxiv.org/abs/2202.06938)
@@ -21,6 +19,10 @@ my pronouns are he/him
 [Modeling a Hidden Dynamical System Using Energy Minimization and Kernel Density Estimates](https://arxiv.org/abs/1904.05172) (with Steven Petrone and Christopher Griffin), Physical Review E **100** (2019)
 
 [Stirling numbers in braid matroid Kazhdan–Lusztig polynomials](https://www.sciencedirect.com/science/article/pii/S0196885818301052) (with Max D. Wakefield), Advances in Applied Mathematics **103** (2019)
+
+## preprints
+
+[Ideals preserved by linear changes of coordinates in positive characteristic](https://arxiv.org/abs/2404.10544) (with Bjørn Cattell-Ravdal, Erin Delargy, Akash Ganguly, Sean Guan, Michael Perlman, and Saisudharshan Sivakumar)
 
 ## teaching
 i have lectured the following classes at UMN:
