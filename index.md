@@ -53,6 +53,11 @@ i [did it again](https://summerofcode.withgoogle.com/programs/2022/projects/UpKW
 
 [click here](https://trevorkarn.github.io/notes) to see some miscellaneous notes. 
 
+## MRWAC
+
+i am helping to organize the 2024 [Minnesota Research Workshop in Algebra and Combinatorics](https://sites.google.com/umn.edu/mrwac/home) (aka MRWAC, pronouced like the Pokemon). 
+it is a research workshop to strengthen research connections between UMN graduate students, postdocs and alumni in combinatorics and algebra.
+
 ## combinatorics seminar
 
 i helped to organize the 2020 UMN student combinatorics seminar.
