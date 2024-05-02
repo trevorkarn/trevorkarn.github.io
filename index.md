@@ -21,6 +21,7 @@ my pronouns are he/him
 [Stirling numbers in braid matroid Kazhdan–Lusztig polynomials](https://www.sciencedirect.com/science/article/pii/S0196885818301052) (with Max D. Wakefield), Advances in Applied Mathematics **103** (2019)
 
 ## preprints
+[Superspace coinvariants and hyperplane arrangements](https://arxiv.org/abs/2404.17919) (with Robert Angarone, Patricia Commins, Satoshi Murai, and Brendon Rhoades)
 
 [Ideals preserved by linear changes of coordinates in positive characteristic](https://arxiv.org/abs/2404.10544) (with Bjørn Cattell-Ravdal, Erin Delargy, Akash Ganguly, Sean Guan, Michael Perlman, and Saisudharshan Sivakumar)
 
