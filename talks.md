@@ -4,6 +4,7 @@ layout: course
 
 # talks
 
+- [Centre International de Rencontres Mathématiques](https://conferences.cirm-math.fr/2892.html) (November 2023)
 - University of Minnesota Duluth Graduate Colloquium [(slides)](/assets/talks/umd-23.pdf)
 - Graduate Student Combinatorics Conference (3/18/23) [(slides)](/assets/talks/gscc2023.pdf)
 - University of Minnesota Combinatorics Seminar (2/17/23) [(slides)](/assets/talks/umn-equiv-kl-23.pdf)
