@@ -6,7 +6,7 @@ layout: course
 
 - University of Minnesota Student Combinatorics and Algebra Seminar Lightning Talks (9/12/24) [(slides)](/assets/talks/hyperplane-history.pdf)
 - United States Naval Academy Math Department Colloquium (8/23/24) [(slides)](/assets/talks/usna-24.pdf)
-- Centre International de Rencontres Mathématiques (11/14/23)
+- Centre International de Rencontres Mathématiques (11/14/23) [(notes)](/assets/talks/linear-program-permrep.pdf)
 - University of Minnesota Duluth Graduate Colloquium [(slides)](/assets/talks/umd-23.pdf)
 - Graduate Student Combinatorics Conference (3/18/23) [(slides)](/assets/talks/gscc2023.pdf)
 - University of Minnesota Combinatorics Seminar (2/17/23) [(slides)](/assets/talks/umn-equiv-kl-23.pdf)
