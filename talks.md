@@ -4,6 +4,7 @@ layout: course
 
 # talks
 
+- Texas A&M University Combinatorics Seminar (10/11/24) [(slides)](/assets/talks/tamu-10-11-2024.pdf)
 - University of Minnesota Student Combinatorics and Algebra Seminar Lightning Talks (9/12/24) [(slides)](/assets/talks/hyperplane-history.pdf)
 - United States Naval Academy Math Department Colloquium (8/23/24) [(slides)](/assets/talks/usna-24.pdf)
 - Centre International de Rencontres Mathématiques (11/14/23) [(notes)](/assets/talks/linear-program-permrep.pdf)
