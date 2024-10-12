@@ -4,6 +4,7 @@ layout: course
 
 # talks
 
+- SIAM Texas-Louisiana Section hosted by Baylor University (10/12/24) [(slides)](/assets/talks/siam-10-12-2024.pdf)
 - Texas A&M University Combinatorics Seminar (10/11/24) [(slides)](/assets/talks/tamu-10-11-2024.pdf)
 - University of Minnesota Student Combinatorics and Algebra Seminar Lightning Talks (9/12/24) [(slides)](/assets/talks/hyperplane-history.pdf)
 - United States Naval Academy Math Department Colloquium (8/23/24) [(slides)](/assets/talks/usna-24.pdf)
