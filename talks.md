@@ -4,6 +4,7 @@ layout: course
 
 # talks
 
+- Brown University Combinatorics Seminar (11/04/24) [(slides)](/assets/talks/brown-24-11-04.pdf)
 - SIAM Texas-Louisiana Section hosted by Baylor University (10/12/24) [(slides)](/assets/talks/siam-10-12-2024.pdf)
 - Texas A&M University Combinatorics Seminar (10/11/24) [(slides)](/assets/talks/tamu-10-11-2024.pdf)
 - University of Minnesota Student Combinatorics and Algebra Seminar Lightning Talks (9/12/24) [(slides)](/assets/talks/hyperplane-history.pdf)
