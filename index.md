@@ -1,9 +1,10 @@
-# trevor karn
+# trevor karn, ph.d.
 
 ## about 
 
-i'm a mathematics phd candidate at the University of Minnesota
-advised by [Vic Reiner](https://www-users.cse.umn.edu/~reiner/). here is [my cv](/assets/karn_CV.pdf).
+i'm a Visiting Assistant Professor (non-tenure track) at Texas A\&M University.
+i earned my Ph.D. in 2025 under the supervision of [Vic Reiner](https://www-users.cse.umn.edu/~reiner/).
+here is [my cv](/assets/karn_CV.pdf).
 
 my research interests are in algebraic combinatorics and
 applied topology
@@ -11,6 +12,8 @@ applied topology
 my pronouns are he/him
 
 ## publications
+
+[Ideals preserved by linear changes of coordinates in positive characteristic](https://doi.org/10.1080/00927872.2025.2517746) (with Bjørn Cattell-Ravdal, Erin Delargy, Akash Ganguly, Sean Guan, Michael Perlman, and Saisudharshan Sivakumar), Communications in Algebra (2025) [(arXiv version)](https://arxiv.org/abs/2404.10544)
 
 [Superspace coinvariants and hyperplane arrangements](https://www.sciencedirect.com/science/article/abs/pii/S0001870825000830)(with Robert Angarone, Patricia Commins, Satoshi Murai, and Brendon Rhoades), Advances in Mathematics **467** (2025) [(arXiv version)](https://arxiv.org/abs/2404.17919) 
 
@@ -24,9 +27,12 @@ my pronouns are he/him
 
 ## preprints
 
-[Ideals preserved by linear changes of coordinates in positive characteristic](https://arxiv.org/abs/2404.10544) (with Bjørn Cattell-Ravdal, Erin Delargy, Akash Ganguly, Sean Guan, Michael Perlman, and Saisudharshan Sivakumar)
+[Invariant theory for wreath products acting on superpolynomials](https://arxiv.org/abs/2503.19323) (with Vic Reiner)
+
 
 ## teaching
+i am not teaching during fall 2025.
+
 i have lectured the following classes at UMN:
 
 - math 5251: [error-correcting codes, finite fields, algebraic curves](https://trevorkarn.github.io/5251), spring 2023, spring 2025
@@ -38,6 +44,14 @@ i have t.a.'d the following classes at UMN:
 - math 1272: calculus ii, spring 2020, fall 2021
 - math 1271: calculus i, fall 2019
 
+## talks
+
+[click here](https://trevorkarn.github.io/talks) to see more about some of my talks.
+
+## notes
+
+[click here](https://trevorkarn.github.io/notes) to see some miscellaneous notes. 
+
 ## open source development
 
 i'm a fan of python. in particular, sagemath.
@@ -47,13 +61,6 @@ since 2020 i have been contributing to sagemath.
 in summer 2021 i participated in the [Google Summer of Code](https://summerofcode.withgoogle.com/projects/#6722452844969984) with sagemath. 
 i [did it again](https://summerofcode.withgoogle.com/programs/2022/projects/UpKWcuIO) in 2022.
 
-## talks
-
-[click here](https://trevorkarn.github.io/talks) to see more about some of my talks.
-
-## notes
-
-[click here](https://trevorkarn.github.io/notes) to see some miscellaneous notes. 
 
 ## MRWAC
 
