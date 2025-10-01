@@ -2,9 +2,10 @@
 
 ## about 
 
-i'm a Visiting Assistant Professor (non-tenure track) at Texas A\&M University.
-i earned my Ph.D. in 2025 under the supervision of [Vic Reiner](https://www-users.cse.umn.edu/~reiner/).
-here is [my cv](/assets/karn_CV.pdf).
+i'm a Visiting Assistant Professor (non-tenure track) at Texas A&M University.
+i earned my Ph.D. under the supervision of [Vic Reiner](https://www-users.cse.umn.edu/~reiner/) in 2025 at the University of Minnesota.
+
+here is [my cv](/assets/karn_CV.pdf)
 
 my research interests are in algebraic combinatorics and
 applied topology
