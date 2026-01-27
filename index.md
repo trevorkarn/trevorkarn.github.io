@@ -5,10 +5,10 @@
 i'm a Visiting Assistant Professor (non-tenure track) at Texas A&M University.
 i earned my Ph.D. under the supervision of [Vic Reiner](https://www-users.cse.umn.edu/~reiner/) in 2025 at the University of Minnesota.
 
-here is [my cv](/assets/karn_CV.pdf)
-
 my research interests are in algebraic combinatorics and
-applied topology
+applied topology. here is [my cv](/assets/karn_CV.pdf)
+
+this semester i am a coorganizer of the [Algebra & Combinatorics Seminar @ Texas A&M](https://tamu-seminar.github.io/alg-comb/). please contact me if you wish to speak!
 
 my pronouns are he/him
 
@@ -32,7 +32,8 @@ my pronouns are he/him
 
 
 ## teaching
-i am not teaching during fall 2025.
+
+i am lecturing [math 251: engineering mathematics iii](https://artsci.tamu.edu/mathematics/academics/courses/descriptions/math251.html) at Texas A&M in spring 2026.
 
 i have lectured the following classes at UMN:
 
@@ -58,6 +59,7 @@ i have t.a.'d the following classes at UMN:
 i'm a fan of python. in particular, sagemath.
 since 2020 i have been contributing to sagemath.
 [here are some things i've done in sagemath](https://github.com/sagemath/sage/issues?q=is%3Aissue+trevorkarn+).
+as of january 27, 2026, i am the 62nd most [prolific contributor to sage](https://github.com/sagemath/sage/graphs/contributors). 
 
 in summer 2021 i participated in the [Google Summer of Code](https://summerofcode.withgoogle.com/projects/#6722452844969984) with sagemath. 
 i [did it again](https://summerofcode.withgoogle.com/programs/2022/projects/UpKWcuIO) in 2022.
