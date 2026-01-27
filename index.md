@@ -65,12 +65,10 @@ in summer 2021 i participated in the [Google Summer of Code](https://summerofcod
 i [did it again](https://summerofcode.withgoogle.com/programs/2022/projects/UpKWcuIO) in 2022.
 
 
-## MRWAC
+## Previous organizing
 
-i am helping to organize the 2024 [Minnesota Research Workshop in Algebra and Combinatorics](https://sites.google.com/umn.edu/mrwac/home) (aka MRWAC, pronouced like the Pokemon). 
-it is a research workshop to strengthen research connections between UMN graduate students, postdocs and alumni in combinatorics and algebra.
-
-## combinatorics seminar
+i have previously helped organize the [Minnesota Research Workshop in Algebra and Combinatorics](https://sites.google.com/umn.edu/mrwac/home) (aka MRWAC, pronouced like the Pokemon). 
+MRWAC is a research workshop to strengthen research connections between UMN graduate students, postdocs and alumni in combinatorics and algebra.
 
 i helped to organize the 2020 UMN student combinatorics seminar.
 [here](https://www-users.cse.umn.edu/~karnx018/2020.html) is the schedule of speakers that year.
