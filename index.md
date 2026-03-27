@@ -28,6 +28,7 @@ my pronouns are he/him
 
 ## preprints
 
+[On invariant subrings of Orlik–Solomon and Varchenko–Gel’fand algebras in type A](https://arxiv.org/pdf/2603.24884)
 [Invariant theory for wreath products acting on superpolynomials](https://arxiv.org/abs/2503.19323) (with Vic Reiner)
 
 
